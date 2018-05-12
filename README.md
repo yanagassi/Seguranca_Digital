@@ -1,6 +1,4 @@
 # Palestrs & Minicurso de Segurança de Dados
-
-<hr>
 <ul>
 	<li>Todos os PDF's e PPT's foram escritos por Yan Esteves.</li>
 	<li>Usada para palestras e minicursos na faculdade Salgado de Oliveira - Universo</li>
