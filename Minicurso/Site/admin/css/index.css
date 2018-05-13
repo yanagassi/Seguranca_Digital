@@ -1,0 +1,61 @@
+body{}
+
+.topo{
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	height: 80px;
+	background:#90ECF5
+	
+}
+#logo{
+	font-size: 40px;
+	margin-left: 2%;
+	font-family: "Times New Roman", Times, serif;
+	font-weight: bold;
+	color: gray;
+}
+#logo1{	color: #2E9AFE;}
+.noticia{
+	position: absolute;
+	top: 100px;
+	left: 20%;
+	right: 20%;
+	height: 500px;
+	background:#D7F0F3;
+}
+#titulo{
+	position: absolute;
+	left: 5%;
+	top: 20px;
+	width: 90%;padding: 5px;
+}
+
+textarea{
+	position: absolute;
+	left: 5%;
+	width: 90%;
+	top: 60px;
+	height: 80%;
+	resize: none;
+	padding: 5px;
+}
+
+#botao{
+	position: absolute;
+	bottom: 1%;
+	right: 5%;
+}
+
+#sair{
+	position: absolute;
+	right: 5%;
+	top: 50%;
+	font-size: 20px;
+	margin-top: -20px;
+	border:thin solid;
+	padding: 6px;
+	background: white;
+	color: black;
+}

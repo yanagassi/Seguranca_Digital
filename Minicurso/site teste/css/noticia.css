@@ -1,0 +1,23 @@
+body{}
+
+.titulo{
+	position: absolute;
+	left: 5%;
+	top: 100px;
+}
+
+.noticia{
+	position: absolute;
+	top: 200px;
+	left: 5%;
+	right: 7%;
+}
+.topo{
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	height: 80px;
+	background:blue;
+	opacity: 0.5;
+}
